@@ -19,7 +19,7 @@ import (
 	"strings"
 )
 
-var version string = "0.21.0"
+var version string = "0.25.3"
 
 func Full() string {
 	return version
